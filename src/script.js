@@ -77,7 +77,7 @@ function preload() {
     this.load.image('ring4', 'assets/anillo/anillo4.png');
     
     // Cargar sprite del enemigo
-    this.load.image('crab', 'assets/enemigos/crab.png');
+    this.load.image('crab', 'assets/enemigos/crabo.png');
     
     // Cargar sprite de la bomba
     this.load.image('bomb', 'assets/enemigos/bomb.png');
