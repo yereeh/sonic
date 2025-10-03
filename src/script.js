@@ -77,10 +77,10 @@ function preload() {
     this.load.image('ring4', 'assets/anillo/anillo4.png');
     
     // Cargar sprite del enemigo
-    this.load.image('crab', 'assets/enemigos/crabo.png');
+    this.load.image('crab', 'assets/Enemigos/crabo.png');
     
     // Cargar sprite de la bomba
-    this.load.image('bomb', 'assets/enemigos/bomb.png');
+    this.load.image('bomb', 'assets/Enemigos/bomb.png');
     
     // Cargar música de fondo
     this.load.audio('niveles', 'assets/niveles.mp3'); // Cambia aquí el nombre del archivo
